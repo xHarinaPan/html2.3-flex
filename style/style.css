@@ -1,0 +1,38 @@
+body {
+     margin: 0;
+     padding: 0;
+}
+
+.header {
+    background-color: #93B5C9;
+    height: 200px;
+}
+
+.first {
+    background-color: #AB2849;
+    height: 400px;
+    margin-bottom: 30px;
+}
+
+
+.tabs {
+    
+    margin-bottom: 20px;
+    height: 150px;
+    width: 70%;
+    background-color: #AB2849;
+
+}
+
+footer {
+    clear: right;
+    background-color: #AB2849;
+    height: 110px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+}
+
+
+
